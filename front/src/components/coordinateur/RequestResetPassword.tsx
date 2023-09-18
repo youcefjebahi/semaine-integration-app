@@ -31,9 +31,9 @@ function RequestResetPassword() {
     <main id="main" className="main">
       <div className="container ">
         <div className="row ">
-          <div
-            className="col-md-6 mx-auto my-5"
-            style={{ backgroundColor: "#f2f2f2" }}
+          <div 
+            className="col-md-8 my-5"
+            style={{ backgroundColor: "#f2f2f2" , marginLeft:"60px"}}
           >
             {" "}
             <h2>Demande de réinitialisation du mot de passe</h2>
